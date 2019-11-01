@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Paula Szewach and Rubén Martínez Lorente*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona, 21/10-20/12/2019 & Date]*
 
 ## Content
 - [Project Description](#project-description)
