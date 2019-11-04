@@ -16,19 +16,37 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The project is an analysis about the population of Barcelona. 
+The project is done in collaboration and it splits up in two distinguishes partes:
+A demographic analysis about deaht, birth and vegetative ratio, and a second one, about kind of inmigration.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The questions about population scheduled are:
+
+    What is the death rate by district? And by year?
+    What is the most vulnerable age range (most likely to die)?
+    What is the birth rate by district? By year?
+    What is the vegetative ratio?
+    What is the most populated neighborhood?
+    What is the most used name in Barcelona? How is the name’s distribution
+
+The questions about inmigration scheduled are:
+
+    What is the total number of immigrants in Barcelona?
+    What is the most frequent nationality? What about by District?
+    Do immigrants live in districts  where mean rent is lower?
+
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We use these different databeses, extracted from websites from the Ajuntament de Barcelona.
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+In this case, there is no match between the differente databases, because the data is linked with different topics, like Gender (Binary data), or ranges (age).
+The workflow used is grouped each data we want to check (death ratio, birth ratio, etc), for one variabale, e.g. age range, or gender. 
+The presentation is introduced as the original database, and then, the data requested by the original questions. 
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
@@ -36,8 +54,7 @@ How did you organize your work? Did you use any tools like a kanban board?
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/1F34PiK9jAagR9f8anrjIHz9EopUmUHxEKaka0P532m8/edit#slide=id.p)  
+[Trello](https://trello.com/b/abA2oDwK/proyecto-2-barcelona)  
